@@ -15,7 +15,7 @@
 Mi nombre es **Jeremy**, soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
 
 - 💼 Actualmente trabajo desarrollando software a medida
-- 😛 Acutomatizando procesos para tener mas tiempo libre
+- 😛 Automatizando procesos para tener mas tiempo libre
 - 🌱 Me llamó la atencion Javascript
 - 👯 Dispuesto a colaborar con otros creadores
 - 📦 C# | .NET | SQL | JavaScript | APIs Rest | DDD | CA 
