@@ -1,12 +1,12 @@
 <!-- BADGES TOP -->
-![status](https://img.shields.io/badge/status-ON-green
-) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![status](https://img.shields.io/badge/status-ON-green) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![Actualizacion](https://img.shields.io/badge/last_manual_update-1/18/25-blue)
 
 <!-- SALUDO -->
 # Hola, aqui puedes llamarme `Rauder` 👽
 
 <!-- SOCIAL LINK -->
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-cordova-281946242/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/jeremy-cordova-281946242/) 
 
 <!-- GIF -->
  <img align='right' src="https://github.com/Rauder7/Rauder7/blob/main/Assets/cat_code.gif" width='230' alt="side Image" align="right" height="auto"> 
