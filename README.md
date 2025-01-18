@@ -3,7 +3,7 @@
 ) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 <!-- SALUDO -->
-# Hola, aqui puedes llamarme Rauder 👽
+# Hola, aqui puedes llamarme `Rauder` 👽
 
 <!-- SOCIAL LINK -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-cordova-281946242/) 
