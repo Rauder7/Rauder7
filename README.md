@@ -17,8 +17,8 @@ Mi nombre es **Jeremy**, soy Desarrollador de Software especializado en **BackEn
 <!-- INFORMACION ADICIONAL -->
 <ul>
  <li>💼 Actualmente trabajo desarrollando software a medida</li>
- <li>😛 Acutomatizando procesos para tener mas tiempo libre</li>
- <li>🌱 Me llamó la atencion Javascript</li>
+ <li>😛 Automatizando procesos para tener mas tiempo libre</li>
+ <li>🌱 Me llamó la atencion JavaScript</li>
  <li>👯 Dispuesto a colaborar con otros creadores</li>
  <li>📦 C# | .NET | SQL | JavaScript | APIs Rest | DDD | CA </li>
  <li>🥅 Metas 2025: Perfect my English and master the JavaScript ecosystem</li>
