@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-cordova-281946242/) 
 
 <!-- GIF -->
- <img align='right' src="https://github.com/Rauder7/Rauder7/Assets/cat_code.gif" width='200' alt="side Image" align="right" height="auto"> 
+ <img align='right' src="https://github.com/Rauder7/Rauder7/blob/main/Assets/cat_code.gif" width='230' alt="side Image" align="right" height="auto"> 
 
 <!-- INTRODUCCION -->
 Mi nombre es **Jeremy**, soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
