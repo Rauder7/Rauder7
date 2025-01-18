@@ -9,11 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-cordova-281946242/) 
 
 <!-- GIF -->
-<<<<<<< HEAD
- <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg2ZWQzMmlreXhnamZoam8yZ2x1ZjBidGk0djdueTF0NTlkeHdlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RddaRQbuBgcgw/giphy.gif" width='200' alt="side Image" align ="right" height="auto"> 
-=======
- <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg2ZWQzMmlreXhnamZoam8yZ2x1ZjBidGk0djdueTF0NTlkeHdlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RddaRQbuBgcgw/giphy.gif" width='200' alt="side Image" align="right" height="auto"> 
->>>>>>> ee14b7d0c8801ec099221caad92c1554b71c011d
+ <img align='right' src="https://github.com/Rauder7/Rauder7/Assets/cat_code.gif" width='200' alt="side Image" align="right" height="auto"> 
 
 <!-- INTRODUCCION -->
 Mi nombre es **Jeremy**, soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
