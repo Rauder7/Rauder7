@@ -1,5 +1,5 @@
 <!-- BADGES TOP -->
-![status](https://img.shields.io/badge/status-ON-green) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![Actualizacion](https://img.shields.io/badge/last_manual_update-1/18/25-blue)
+![status](https://img.shields.io/badge/status-ON-green) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![Actualizacion](https://img.shields.io/badge/last_manual_update-1/19/25-blue)
 
 <!-- SALUDO 
 # Hola, aqui puedes llamarme `Rauder` 👽 -->
