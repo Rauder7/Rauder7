@@ -4,10 +4,10 @@
   <img alt="gender" src="https://img.shields.io/badge/genero-%F0%9F%A4%B5-lightgrey"/>
   <img alt="last-manual-update" src="https://img.shields.io/badge/ultima_actualizacion_manual-%F0%9F%93%85_1/20/25-blue"/>
 </div>
-<h3 align="right" >
-  Vistas de perfil
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
-</h3>
+<div align="right" >
+  <span><strong>Vistas de perfil</strong></span>
+  <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="auto" height="17"></span>
+</div>
 
 <img alt="numero-visitantes" width="170" height="auto" align="right" src="https://profile-counter.glitch.me/Rauder7/count.svg?"/>
 <!-- SALUDO -->
