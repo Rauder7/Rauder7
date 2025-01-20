@@ -21,16 +21,23 @@
 
 <!-- SOCIAL LINK -->
 <div>
-  <a target="_blank" href="https://facebook.com/https://www.facebook.com/share/1M9KZUogBw">
+  <!-- <a target="_blank" href="https://facebook.com/https://www.facebook.com/share/1M9KZUogBw">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" target="_blank"/>
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/jeremy-cordova-281946242/">
+  </a> -->
+  <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank"><img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/></a>
+  <!--<a target="_blank" href="https://www.linkedin.com/in/jeremy-cordova-281946242/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
-  </a>
+  </a>-->
+  <a href='www.linkedin.com/in/jeremy-cordova-281946242' target="_blank"><img alt='' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/></a>
+  <!--
   <a target="_blank" href="mailto:jeremy.jesus.tauro07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail_jeremy.jesus.tauro07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
-  </a>
+     <img src="https://img.shields.io/badge/Gmail_jeremy.jesus.tauro07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/> 
+    <img src="" alt="Gmail" target="_blank"/>
+  </a>-->
+  <!--<a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=social&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=37FE01'/></a> -->
+  <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=F2A60C'/></a>
 </div>
+</br>
 <!-- INTRODUCCION -->
 
 Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
