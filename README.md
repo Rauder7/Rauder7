@@ -18,8 +18,17 @@
 </div>
 
 <!-- SOCIAL LINK -->
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1M9KZUogBw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/jeremy-cordova-281946242/) 
+<div>
+  <a target="_blank" href="https://facebook.com/https://www.facebook.com/share/1M9KZUogBw">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" target="_blank"/>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/jeremy-cordova-281946242/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
+  </a>
+  <a target="_blank" href="mailto:jeremy.jesus.tauro07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail_jeremy.jesus.tauro07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
+  </a>
+</div>
 
 <!-- GIF GATO -->
  <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2NDMxYzIwN2QyYjkzOTg1ZWRjMDMyNjc0MzEzNjkwNDJlN2M0ZSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/RddaRQbuBgcgw/giphy.gif" width='230' alt="side Image" align="right" height="auto"> 
