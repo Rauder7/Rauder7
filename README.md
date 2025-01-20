@@ -34,16 +34,13 @@
 </br>
 <div align="center">
 <!-- INTRODUCCION -->
-
   <p>Soy Desarrollador de Software especializado en <strong>BackEnd con C#</strong>, Actualmente estoy <strong>explorando NodeJS Y Express</strong>. | Escribiendo codigo para que el tiempo vuele 🚀</p>
-</br>
-&nbsp;&nbsp;&nbsp;
-<!-- GIF GATO -->
 
+<!-- GIF GATO -->
   <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='330' alt="side Image" align="right" height="auto"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- INFORMACION ADICIONAL -->
-</br>
   <ul align="left">
     <li>💼 Actualmente trabajo desarrollando software a medida</li>
     <li>😛 Automatizando procesos para tener mas tiempo libre</li>
@@ -53,11 +50,10 @@
     <li>🥅 Metas 2025: Perfect my English and master the JavaScript ecosystem</li>
   </ul>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
 
 - --
-
+<!-- STACK FAVORITO -->
 <div align="center">
   <h3>🔥 STACK FAVORITO ⚡<h3>
   <img title="nodejs" height="35" src="https://skillicons.dev/icons?i=nodejs" /> 
