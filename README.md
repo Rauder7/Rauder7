@@ -6,8 +6,9 @@
   
 </div>
 <div align="right">
-  <h5>Numero de Visitantes
+  <h5>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
+    Numero de Visitantes
   </h5>
 </div>
 
