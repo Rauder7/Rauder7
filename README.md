@@ -38,7 +38,7 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
 
 <!-- GIF GATO -->
 
- <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='300' alt="side Image" align="right" height="auto"> 
+ <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='350' alt="side Image" align="right" height="auto"> 
 
 <!-- INFORMACION ADICIONAL -->
 
@@ -55,27 +55,27 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
 
 <div align="center">
   <h3>🔥 STACK FAVORITO ⚡<h3>
-  <img height="35" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" /> 
+  <img title="nodejs" height="35" src="https://skillicons.dev/icons?i=nodejs" /> 
   <img title="html5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="css3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="35" title="javascript" src="https://skillicons.dev/icons?i=javascript" />
+  <img title="javascript" height="35"  src="https://skillicons.dev/icons?i=javascript" />
   <img title="c#/csharp" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img title="sql server" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img title="mysql" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height="35" title="postman" src="https://skillicons.dev/icons?i=markdown" /> 
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> 
+  <img title="markdown" height="35" src="https://skillicons.dev/icons?i=markdown" /> 
+  <img title="postman" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> 
   <img title="canva" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img title="json" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />     
   <img title="figma" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />                        
   <img title="git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img title="github" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img title="notion" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-  <img height="35" src="https://skillicons.dev/icons?i=dotnet" />
+  <img titile="dotnet" height="35" src="https://skillicons.dev/icons?i=dotnet" />
   <img title="visual studio" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img title="vscode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />     
-  <img height="35" title="obsidian" src="https://skillicons.dev/icons?i=obsidian" />       
-  <img height="35" title="express" src="https://skillicons.dev/icons?i=express" />
-  <img height="35" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />  
+  <img title="obsidian" height="35" src="https://skillicons.dev/icons?i=obsidian" />       
+  <img title="express" height="35" src="https://skillicons.dev/icons?i=express" />
+  <img title="bootstrap" height="35" src="https://skillicons.dev/icons?i=bootstrap" />  
 </div>
     
 - --
