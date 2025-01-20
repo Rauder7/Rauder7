@@ -28,7 +28,7 @@
     <img alt='linkedin' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/>
   </a>
   <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank">
-    <img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=F2A60C'/>
+    <img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=3e65cf'/>
   </a>
 </div>
 </br>
