@@ -32,22 +32,25 @@
   </a>
 </div>
 </br>
+<div align="center">
 <!-- INTRODUCCION -->
 
-Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
+  <p>Soy Desarrollador de Software especializado en <strong>BackEnd con C#</strong>, Actualmente estoy <strong>explorando NodeJS Y Express</strong>. | Escribiendo codigo para que el tiempo vuele 🚀</p>
 
 <!-- GIF GATO -->
 
- <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='330' alt="side Image" align="right" height="auto"> 
+  <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='330' alt="side Image" align="right" height="auto"> 
 
 <!-- INFORMACION ADICIONAL -->
-
-- 💼 Actualmente trabajo desarrollando software a medida
-- 😛 Automatizando procesos para tener mas tiempo libre
-- 🌱 Me llamó la atencion JavaScript
-- 👥 Dispuesto a colaborar con otros creadores
-- 📦 C# | .NET | SQL | JavaScript | APIs Rest | DDD | CA 
-- 🥅 Metas 2025: Perfect my English and master the JavaScript ecosystem
+  <ul align="left">
+    <li>💼 Actualmente trabajo desarrollando software a medida</li>
+    <li>😛 Automatizando procesos para tener mas tiempo libre</li>
+    <li>🌱 Me llamó la atencion JavaScript</li>
+    <li>👥 Dispuesto a colaborar con otros creadores</li>
+    <li>📦 C# | .NET | SQL | JavaScript | APIs Rest | DDD | CA </li>
+    <li>🥅 Metas 2025: Perfect my English and master the JavaScript ecosystem</li>
+  </ul>
+</div>
 
 </br>
 
