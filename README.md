@@ -59,7 +59,7 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
 <div align="center">
   <h3>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> 
-    LENGUAJES FAVORITOS
+    STACK FAVORITO
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
   </h3>
   <!-- <h3>STACK FAVORITO</h3> -->
