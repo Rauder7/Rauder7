@@ -5,10 +5,10 @@
   <img alt="last-manual-update" src="https://img.shields.io/badge/last_manual_update-1/19/25-blue"/>
   
 </div>
-<div align="right">
+<div align="right" >
   <h5>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
     Numero de Visitantes
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width=30 height="auto">
   </h5>
 </div>
 
@@ -17,7 +17,7 @@
 
 <!-- SALUDO -->
 <div>
-  <img src="Assets\happy-clap.gif" margin-right="20" width="40" alt="pepo-clap" align="left" height="auto"/>
+  <img src="Assets\pepo-clap.gif" margin-right="20" width="40" alt="pepo-clap" align="left" height="auto"/>
   &nbsp;&nbsp;
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=696969&vCenter=true&width=700&lines=Hola!%F0%9F%91%8C;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder+%F0%9F%98%BC" alt="Typing SVG" />
   </a>
