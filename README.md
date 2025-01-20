@@ -58,7 +58,7 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
 </br>
 
 - --
-</br>
+
 <div align="center">
   <h3>🔥 STACK FAVORITO ⚡<h3>
   <img height="35" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" /> 
@@ -83,7 +83,6 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
   <img height="35" title="express" src="https://skillicons.dev/icons?i=express" />
   <img height="35" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />  
 </div>
-</br>
     
 - --
 
