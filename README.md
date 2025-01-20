@@ -31,12 +31,14 @@
     <img src="https://img.shields.io/badge/Gmail_jeremy.jesus.tauro07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
   </a>
 </div>
+<!-- INTRODUCCION -->
+
+Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
 
 <!-- GIF GATO -->
+
  <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='230' alt="side Image" align="right" height="auto"> 
 
-<!-- INTRODUCCION -->
-Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente estoy **explorando NodeJS Y Express**. | Escribiendo codigo para que el tiempo vuele 🚀
 
 <!-- INFORMACION ADICIONAL -->
 
@@ -68,6 +70,7 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
   <img height="35" title="postman" src="https://skillicons.dev/icons?i=markdown" /> 
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> 
   <img title="canva" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img title="json" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />     
   <img title="figma" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />                        
   <img title="git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img title="github" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
