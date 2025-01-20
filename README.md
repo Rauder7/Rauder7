@@ -3,13 +3,12 @@
   <img alt="status" src="https://img.shields.io/badge/status-ON-green"/>
   <img alt="gender" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey"/>
   <img alt="last-manual-update" src="https://img.shields.io/badge/last_manual_update-1/19/25-blue"/>
-  
 </div>
 <div align="right" >
   <h5>
     Numero de Visitantes
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width=30 height="auto">
-  </h5>
+  </h5>gitgit
 </div>
 
 
@@ -17,7 +16,8 @@
 
 <!-- SALUDO -->
 <div>
-  <img src="Assets\pepo-clap.gif" margin-right="20" width="40" alt="pepo-clap" align="left" height="auto"/>
+  <img src="https://github.com/rauder7/rauder7/blob/master/Assets/pepo-clap.gif" alt="pepo-clap" align="left" width="30px" height="auto">
+  <!--<img src="Assets\pepo-clap.gif" margin-right="20" width="40" alt="pepo-clap" align="left" height="auto"/> -->
   &nbsp;&nbsp;
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=696969&vCenter=true&width=700&lines=Hola!%F0%9F%91%8C;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder+%F0%9F%98%BC" alt="Typing SVG" />
   </a>
