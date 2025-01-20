@@ -1,5 +1,5 @@
 <!-- BADGES TOP -->
-<div>
+<div align="left">
   <img alt="status" src="https://img.shields.io/badge/estado-%F0%9F%92%9A_ON-green"/>
   <img alt="gender" src="https://img.shields.io/badge/genero-%F0%9F%A4%B5-lightgrey"/>
   <img alt="last-update" src="https://img.shields.io/badge/ultima_actualizacion-%F0%9F%93%85_1/20/25-blue"/>
@@ -8,34 +8,28 @@
   <span><strong>Vistas de perfil</strong></span>
   <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="auto" height="17"></span>
 </div>
-
 <img alt="numero-visitantes" width="170" height="auto" align="right" src="https://profile-counter.glitch.me/Rauder7/count.svg?"/>
+
 <!-- SALUDO -->
 <div>
   <img src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/peepoClap-2x.gif" alt="pepo-clap" align="left" width="40" height="auto">
-  <!--<img src="Assets\pepo-clap.gif" margin-right="20" width="40" alt="pepo-clap" align="left" height="auto"/> -->
   &nbsp;&nbsp;
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&vCenter=true&width=600&lines=Hola!%F0%9F%91%8C;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder%F0%9F%98%BC" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&vCenter=true&width=600&lines=Hola!%F0%9F%91%8C;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder%F0%9F%98%BC" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- SOCIAL LINK -->
 <div>
-  <!-- <a target="_blank" href="https://facebook.com/https://www.facebook.com/share/1M9KZUogBw">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" target="_blank"/>
-  </a> -->
-  <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank"><img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/></a>
-  <!--<a target="_blank" href="https://www.linkedin.com/in/jeremy-cordova-281946242/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
-  </a>-->
-  <a href='www.linkedin.com/in/jeremy-cordova-281946242' target="_blank"><img alt='' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/></a>
-  <!--
-  <a target="_blank" href="mailto:jeremy.jesus.tauro07@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail_jeremy.jesus.tauro07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/> 
-    <img src="" alt="Gmail" target="_blank"/>
-  </a>-->
-  <!--<a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=social&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=37FE01'/></a> -->
-  <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=F2A60C'/></a>
+  <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank">
+    <img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/>
+  </a>
+  <a href='www.linkedin.com/in/jeremy-cordova-281946242' target="_blank">
+    <img alt='linkedin' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/>
+  </a>
+  <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank">
+    <img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=F2A60C'/>
+  </a>
 </div>
 </br>
 <!-- INTRODUCCION -->
