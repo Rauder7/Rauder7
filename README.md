@@ -40,7 +40,7 @@
 <!-- GIF GATO -->
 
   <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV1cnpyYmQ0ZzB4NnlvbGRyNG9kbDZiNnI5NHZvYjlreGQ2YWV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width='330' alt="side Image" align="right" height="auto"> 
-
+</b4>
 <!-- INFORMACION ADICIONAL -->
   <ul align="left">
     <li>💼 Actualmente trabajo desarrollando software a medida</li>
