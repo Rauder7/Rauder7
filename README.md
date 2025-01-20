@@ -57,11 +57,11 @@ Soy Desarrollador de Software especializado en **BackEnd con C#**, Actualmente e
 - --
 
 <div align="center">
-  <h3>
+  <h2>
     <!-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> -->
     🔥 STACK FAVORITO ⚡
     <!-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32"> -->
-  </h3>
+  </h2>
   <!-- <h3>STACK FAVORITO</h3> -->
   <img height="35" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" /> 
   <img title="html5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
