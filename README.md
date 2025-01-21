@@ -3,8 +3,8 @@
   <img alt="status" src="https://img.shields.io/badge/estado-%F0%9F%92%9A_ON-green"/>
   <img alt="gender" src="https://img.shields.io/badge/genero-%F0%9F%A4%B5-lightgrey"/>
   <img alt="last-update" src="https://img.shields.io/badge/ultima_actualizacion-%F0%9F%93%85_1/20/25-blue"/>
-  <img align="right" src="https://komarev.com/ghpvc/?username=rauder7&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="rauder7" />
-  <img align="right" src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/dragon_dancing.gif" alt="dragon-dancing"width="30"/>
+  <img align="right" src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/dragon_dancing.gif" alt="dragon-dancing"width="28"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=rauder7&label=Vistas%20de%20perfil&color=40E0D0&style=flat" alt="rauder7" />
 </div>
 
 
