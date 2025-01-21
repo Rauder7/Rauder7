@@ -3,12 +3,17 @@
   <img alt="status" src="https://img.shields.io/badge/estado-%F0%9F%92%9A_ON-green"/>
   <img alt="gender" src="https://img.shields.io/badge/genero-%F0%9F%A4%B5-lightgrey"/>
   <img alt="last-update" src="https://img.shields.io/badge/ultima_actualizacion-%F0%9F%93%85_1/20/25-blue"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=rauder7&label=Profile%20views&color=0e75b6&style=flat" alt="rauder7" />
 </div>
+</br>
+</br>
+<!--
 <div align="right" >
   <span><strong>Vistas de perfil</strong></span>
   <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="auto" height="17"></span>
 </div>
-<img alt="numero-visitantes" width="170" height="auto" align="right" src="https://profile-counter.glitch.me/Rauder7/count.svg?"/>
+-->
+<!-- <img alt="numero-visitantes" width="170" height="auto" align="right" src="https://profile-counter.glitch.me/Rauder7/count.svg?"/> -->
 
 <!-- SALUDO -->
 <div>
