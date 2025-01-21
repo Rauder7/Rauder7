@@ -6,29 +6,19 @@
   <img align="right" src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/dragon_dancing.gif" alt="dragon-dancing"width="28"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=rauder7&label=Vistas%20de%20perfil&color=40E0D0&style=flat" alt="rauder7" />
 </div>
-
-
 </br>
-<!--
-<div align="right" >
-  <span><strong>Vistas de perfil</strong></span>
-  <span><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="auto" height="17"></span>
-</div>
--->
-<!-- <img alt="numero-visitantes" width="170" height="auto" align="right" src="https://profile-counter.glitch.me/Rauder7/count.svg?"/> -->
+</br>
 
 <!-- SALUDO -->
 <div>
   <img src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/peepoClap-2x.gif" alt="pepo-clap" align="left" width="40"/>
   &nbsp;&nbsp;
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&vCenter=true&width=600&lines=Hola!%F0%9F%91%8B;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder%F0%9F%98%BC" alt="Typing SVG" />
-  
 </div>
 
 <!-- SOCIAL LINK -->
 <div>
-  <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank">
-    <img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/>
+  <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank"><img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/>
   </a>
   <a href='www.linkedin.com/in/jeremy-cordova-281946242' target="_blank">
     <img alt='linkedin' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/>
@@ -38,8 +28,9 @@
   </a>
 </div>
 </br>
-<div align="center">
+
 <!-- INTRODUCCION -->
+<div align="center">
   <p>Soy Desarrollador de Software especializado en <strong>BackEnd con C#</strong>, Actualmente estoy <strong>explorando NodeJS Y Express</strong>. | Escribiendo codigo para que el tiempo vuele 🚀</p>
 
 <!-- GIF GATO -->
