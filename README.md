@@ -21,7 +21,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/peepoClap-2x.gif" alt="pepo-clap" align="left" width="40"/>
   &nbsp;&nbsp;
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=808080&vCenter=true&width=600&lines=Hola!%F0%9F%91%8C;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder%F0%9F%98%BC" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&vCenter=true&width=600&lines=Hola!%F0%9F%91%8B;Mi+nombre+es+Jeremy...;Pero+aqui+puedes+llamarme+Rauder%F0%9F%98%BC" alt="Typing SVG" />
   
 </div>
 
