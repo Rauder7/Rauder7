@@ -78,10 +78,26 @@
     
 - --
 
-#### Current Projects 
-1. **[Portafolio](#)** _(incoming)_ 🟢
-2. **[Notas](#)** _(incoming)_
-3. **[WhatsApp-web.js API](https://github.com/tu-repositorio)**  _(working on)_
+  <div align="center">
+    <h3>PROJECTOS 
+    <img width="30" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif"/>
+    </h2>
+    <div>
+      <a href="https://github.com/tu-repositorio">
+      <strong>WhatsApp-web.js API<strong>
+      </a> <i>(working on) 🟢<i>
+    </div>
+    <div>
+      <a href="#">
+      <strong>Portafolio<strong>
+      </a><i>(incoming) 🟡<i>
+    </div>
+    <div>
+      <a href="#">
+      <strong>Notas<strong>
+      </a><i>_(incoming)_ 🟡<i>
+    </div>
+  </div>
 </br>
 
 <!-- STATS -->
