@@ -20,7 +20,7 @@
 <div>
   <a href='https://www.facebook.com/profile.php?id=100052069482378' target="_blank"><img alt='facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=facebook&logoColor=FFFEFE&labelColor=316FF6&color=316FF6'/>
   </a>
-  <a href='www.linkedin.com/in/jeremy-cordova-281946242' target="_blank">
+  <a href='https://www.linkedin.com/in/jeremy-cordova-281946242' target="_blank">
     <img alt='linkedin' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/>
   </a>
   <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank">
