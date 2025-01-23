@@ -70,7 +70,7 @@
   <code><img title="git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
   <code><img title="github" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></code>
   <code><img title="notion" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /></code>
-  <code><img titile="dotnet" height="35" src="https://skillicons.dev/icons?i=dotnet" /></code>code>
+  <code><img titile="dotnet" height="35" src="https://skillicons.dev/icons?i=dotnet" /></code>
   <code><img title="visual studio" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></code>
   <code><img title="vscode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
   <code><img title="obsidian" height="35" src="https://skillicons.dev/icons?i=obsidian" /></code>
