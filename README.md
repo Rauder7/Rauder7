@@ -48,8 +48,9 @@
   </ul>
 </div>
 </br>
+</br>
 
-- --
+
 <!-- STACK FAVORITO -->
 <div align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width=50" height="50">
