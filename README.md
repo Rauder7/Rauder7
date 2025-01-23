@@ -89,7 +89,6 @@
   </div>
   <div>
     <s><a href="#"><strong>Portafolio</strong></a></s>(incoming) 🟡
-    <!--<a href="#"><strong>Portafolio</strong></a><i>(incoming) 🟡</i>-->
   </div>
   <div>
     <s><a href="#"><strong>Notas</strong></a></s>(incoming) 🟡
