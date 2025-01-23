@@ -52,7 +52,8 @@
 - --
 <!-- STACK FAVORITO -->
 <div align="center">
-  <h3>🔥 STACK FAVORITO ⚡<h3>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width=50" height="50">
+  <h2>STACK FAVORITO <h2>
   <img title="nodejs" height="35" src="https://skillicons.dev/icons?i=nodejs" /> 
   <img title="html5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="css3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -78,34 +79,32 @@
     
 - --
 
-  <div align="center">
-    <h3>PROJECTOS 
-    <img width="30" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif"/>
-    </h2>
-    <div>
-      <a href="https://github.com/tu-repositorio">
-      <strong>WhatsApp-web.js API<strong>
-      </a> <i>(working on) 🟢<i>
-    </div>
-    <div>
-      <a href="#">
-      <strong>Portafolio<strong>
-      </a><i>(incoming) 🟡<i>
-    </div>
-    <div>
-      <a href="#">
-      <strong>Notas<strong>
-      </a><i>_(incoming)_ 🟡<i>
-    </div>
+<!-- PROJECTOS -->
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="50" height="50">
+  <h2>PROJECTOS</h2>
+  <div>
+    <a href="https://github.com/tu-repositorio"><strong>WhatsApp-web.js API</strong></a> <i>(working on) 🟢</i>
   </div>
+  <div>
+    <a href="#"><strong>Portafolio</strong></a><i>(incoming) 🟡</i>
+  </div>
+  <div>
+    <a href="#"><strong>Notas</strong></a><i>_(incoming)_ 🟡</i>
+  </div>
+  <div>
+    <a href="#"><strong>WakaTime tracker 🤯</strong></a><i>_(incoming)_ 🟡</i>
+  </div>
+</div>
 </br>
 
+- --
 <!-- STATS -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rauder7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rauder7&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="50" height="50">
+  <h2>STATS</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rauder7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=true&order=1&custom_title=mi%20perofil%20XD%20%F0%9F%94%A5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rauder7&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Rauder7&locale=es&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-
