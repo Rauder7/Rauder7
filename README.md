@@ -2,7 +2,7 @@
 <div align="left">
   <img alt="status" src="https://img.shields.io/badge/estado-🟢_on-lightgrey"/>
   <img alt="gender" src="https://img.shields.io/badge/genero-%F0%9F%A4%B5-lightgrey"/>
-  <img alt="last-update" src="https://img.shields.io/badge/ultima_actualizacion-%F0%9F%93%85_1/20/25-blue"/>
+  <img alt="last-update" src="https://img.shields.io/badge/ultima_actualizacion-%F0%9F%93%85_1/23/25-blue"/>
   <img align="right" src="https://raw.githubusercontent.com/rauder7/rauder7/master/Assets/dragon_dancing.gif" alt="dragon-dancing"width="28"/>
   <img align="right" src="https://komarev.com/ghpvc/?username=rauder7&label=Vistas%20de%20perfil&color=40E0D0&style=flat" alt="rauder7" />
 </div>
@@ -85,13 +85,13 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="50" height="50">
   <h3><strong>PROJECTOS<strong></h3>
   <div>
-    <a href="https://github.com/tu-repositorio" target="_blank"><strong>WhatsApp-web.js API</strong></a> <i>(working on) 🟢</i>
+    <a href="https://github.com/#" target="_blank"><strong>WhatsApp-web.js API</strong></a> <i>(working on) 🟢</i>
+  </div>
+  <div>
+    <a href="https://github.com/#" target="_blank"><strong>Notas</strong></a>(working-on) 🟢
   </div>
   <div>
     <s><a href="#"><strong>Portafolio</strong></a></s>(incoming) 🟡
-  </div>
-  <div>
-    <s><a href="#"><strong>Notas</strong></a></s>(incoming) 🟡
   </div>
   <div>
     <s><a href="#"><strong>WakaTime tracker 🤯</strong></a></s>(incoming) 🟡
