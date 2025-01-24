@@ -85,10 +85,10 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="50" height="50">
   <h3><strong>PROJECTOS<strong></h3>
   <div>
-    <a href="https://github.com/#" target="_blank"><strong>WhatsApp-web.js API</strong></a> <i>(working on) 🟢</i>
+    <a href="https://github.com/Rauder7/Notas.git" target="_blank"><strong>WhatsApp-web.js API</strong></a> <i>(working on) 🟢</i>
   </div>
   <div>
-    <a href="https://github.com/#" target="_blank"><strong>Notas</strong></a>(working-on) 🟢
+    <a href="https://github.com/Rauder7/WhatsAppJS_Api.git" target="_blank"><strong>Notas</strong></a>(working-on) 🟢
   </div>
   <div>
     <s><a href="#"><strong>Portafolio</strong></a></s>(incoming) 🟡
