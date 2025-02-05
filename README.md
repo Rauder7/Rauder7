@@ -23,8 +23,8 @@
   <a href='https://www.linkedin.com/in/jeremy-cordova-281946242' target="_blank">
     <img alt='linkedin' src='https://img.shields.io/badge/💼_LinkedIn-100000?style=flat-square&logo=&logoColor=FFFEFE&labelColor=0e76a8&color=0e76a8'/>
   </a>
-  <a href='mailto:jeremy.jesus.tauro07@gmail.com' target="_blank">
-    <img alt='gmail' src='https://img.shields.io/badge/jeremy.jesus.tauro07@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=f2a60c'/>
+  <a href='mailto:jeremycordova.dev@gmail.com' target="_blank">
+    <img alt='gmail' src='https://img.shields.io/badge/jeremycordova.dev@gmail.com-100000?style=flat&logo=gmail&logoColor=C71610&labelColor=FFFEFE&color=f2a60c'/>
   </a>
 </div>
 </br>
